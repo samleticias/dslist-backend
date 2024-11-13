@@ -32,4 +32,27 @@ public class Game {
     @Column(columnDefinition = "TEXT")
     private String longDescription;
 
+    public Long getId() {
+        return id;
+    }
+
+    public String getTitle() {
+        return title;
+    }
+
+    public Integer getYear() {
+        return year;
+    }
+
+    public String getImgUrl() {
+        return imgUrl;
+    }
+
+    public String getShortDescription() {
+        return shortDescription;
+    }
+
+    public String getLongDescription() {
+        return longDescription;
+    }
 }
