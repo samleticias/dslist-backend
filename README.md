@@ -1,6 +1,6 @@
 # Java Spring Boot - Intensivo de Aprendizado 
 
-Aplicação back-end para organizar jogos em coleções, sendo cada uma delas com um gênero diferente, desenvolvida durante o intensivo em **Java Spring Boot** ministrado pelo Prof. Nélio Alves.
+Aplicação back-end para organizar jogos em coleções, sendo cada uma delas com um gênero diferente, desenvolvida durante o intensivo em **Java Spring Boot** ministrado pelo Prof. Nélio Alves. O sistema utiliza o framework Spring Boot para o desenvolvimento de APIs REST, juntamente com PostgreSQL para armazenamento de dados e Docker Compose para facilitar a criação e configuração do ambiente local de desenvolvimento.
 
 ## Aprendizados Principais  
 
