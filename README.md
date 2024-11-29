@@ -1,6 +1,6 @@
 # Java Spring Boot - Intensivo de Aprendizado 
 
-Este projeto reúne os conhecimentos adquiridos durante um intensivo em **Java Spring Boot**, ministrado pelo Prof. Nélio Alves. 
+Aplicação back-end para organizar jogos em coleções, sendo cada uma delas com um gênero diferente, desenvolvida durante o intensivo em **Java Spring Boot** ministrado pelo Prof. Nélio Alves.
 
 ## Aprendizados Principais  
 
@@ -30,16 +30,11 @@ Este projeto reúne os conhecimentos adquiridos durante um intensivo em **Java S
 - Configuração de **CORS** para rotas.  
 
 ## Tecnologias Utilizadas  
-- **Java 17+**  
+- **Java 17+**
+- **Maven**
+- **Docker**
 - **Spring Boot**  
-- **Spring Data JPA**  
+- **Spring Data JPA / Hibernate**  
 - **H2 Database**
 - **Postgres Database**  
-- **Postman** (para testes de API)  
-
-## Como Executar  
-1. Clone o repositório:
-   
-   ```bash
-   git clone https://github.com/samleticias/dslist-backend.git
-   cd dslist-backend
+- **Postman** (para testes de API)
