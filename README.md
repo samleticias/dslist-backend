@@ -135,6 +135,10 @@ Response:
 ]
 ```
 
+## Modelo de Domínio
+
+![Imagem do modelo de domínio](https://raw.githubusercontent.com/devsuperior/java-spring-dslist/main/resources/dslist-model.png)
+
 ## Tecnologias Utilizadas  
 - **Java 17+**
 - **Maven**
